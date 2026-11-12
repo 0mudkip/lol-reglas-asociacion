@@ -1,0 +1,6 @@
+# Datos descargados de la API de Riot (no se versionan)
+datos/
+
+.ipynb_checkpoints/
+__pycache__/
+.venv/
